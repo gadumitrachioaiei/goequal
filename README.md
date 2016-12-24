@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/gadumitrachioaiei/goequal.svg?branch=master)](https://travis-ci.org/gadumitrachioaiei/goequal)
 [![Go Report Card](https://goreportcard.com/badge/github.com/gadumitrachioaiei/goequal)](https://goreportcard.com/report/github.com/gadumitrachioaiei/goequal)
 
 `goequal` generates equal like functions for a given type. It reads a type recursively and generates a function for each named type refered by the original type. The generated code is written in a file per named type in the directory package.
